@@ -1,0 +1,14 @@
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\bin\Debug\FrankInventorySystem.exe.config
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\bin\Debug\FrankInventorySystem.exe
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\bin\Debug\FrankInventorySystem.pdb
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.csproj.AssemblyReference.cache
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.AddPart.resources
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.AddProduct.resources
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.Properties.Resources.resources
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.csproj.GenerateResource.cache
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.csproj.CoreCompileInputs.cache
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.exe
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.pdb
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.Main.resources
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.ModifyPart.resources
+F:\Downloads\Task 1 WGU\FrankInventorySystem\FrankInventorySystem\obj\Debug\FrankInventorySystem.ModifyProduct.resources
